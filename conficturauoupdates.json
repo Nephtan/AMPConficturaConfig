@@ -4,7 +4,7 @@
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "GithubRelease",
         "UpdateSourceData": "ConficturaServer.zip",
-        "UpdateSourceArgs": "Nephtan/ConficturaUO",
+        "UpdateSourceArgs": "https://github.com/Nephtan/ConficturaUO",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
         "UpdateSourceConditionSetting": "",
