@@ -4,8 +4,6 @@
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "GithubRelease",
 		"UpdateSourceArgs": "Nephtan/ConficturaUO",
-		"UpdateSourceData": "ConficturaServer.zip",
-		"UpdateSourceTarget": "{{$FullBaseDir}}",
         "UnzipUpdateSource": true,
 		"OverwriteExistingFiles": true,
 		"DeleteAfterExtract": true,
