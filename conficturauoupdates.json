@@ -1,14 +1,15 @@
 [
     {
-        "UpdateStageName": "Confictura Server Download",
+        "UpdateStageName": "GitHub Confictura Server Download",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "GithubRelease",
+		"UpdateSourceData": "ConficturaServer.zip",
         "UpdateSourceArgs": "Nephtan/ConficturaUO",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
         "UpdateSourceConditionSetting": "",
         "UpdateSourceConditionValue": "",
-        "DeleteAfterExtract": true,
+        "DeleteAfterExtract": false,
         "OneShot": false
     }
 ]
